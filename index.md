@@ -4,7 +4,7 @@
 
 ### Enterprise Applications 
 
-[Enterprise Application for Onboarding New Members at FMDQ](http://188.166.147.52/fmdq/mrois/admin/admin.php)
+[Enterprise Application for Onboarding New Members at FMDQ](http://188.166.147.52/fmdq/mrois/index.php)
 <img src="images/thumbnail1.PNG"/>
 
 ---
