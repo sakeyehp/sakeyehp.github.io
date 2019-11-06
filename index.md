@@ -4,11 +4,11 @@
 
 ### Enterprise Applications 
 
-[Enterprise Application for Onboarding New Members at FMDQ](/sample_page)
+[Enterprise Application for Onboarding New Members at FMDQ](http://188.166.147.52/fmdq/mrois/admin/index.php/)
 <img src="images/thumbnail1.PNG"/>
 
 ---
-[Waste Collection Management System](/pdf/sample_presentation.pdf)
+[Waste Collection Management System](http://13.58.226.102/)
 <img src="images/thumbnail2.PNG"/>
 
 ---
@@ -16,7 +16,7 @@
 ### Practice projects
 
 - [Cardshare](http://cardshare.netlify.com/)
-- [PhotoAlign](http://example.com/)
-- [FlexBoxPractice](http://example.com/)
+- [PhotoAlign](https://github.com/sakeyehp/)
+- [FlexBoxPractice](http://github.com/sakeyehp/)
 
 ---
