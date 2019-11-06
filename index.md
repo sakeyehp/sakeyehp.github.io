@@ -5,11 +5,11 @@
 ### Enterprise Applications 
 
 [Enterprise Application for Onboarding New Members at FMDQ](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/thumbnail1.PNG"/>
 
 ---
 [Waste Collection Management System](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/thumbnail2.PNG"/>
 
 ---
 
