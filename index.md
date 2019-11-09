@@ -15,8 +15,8 @@
 
 ### Practice projects
 
-- [Cardshare](http://cardshare.netlify.com/)
+- [RESTAPI](https://github.com/sakeyehp/)
 - [PhotoAlign](https://github.com/sakeyehp/)
-- [FlexBoxPractice](http://github.com/sakeyehp/)
+- [FrontEndDesigns](https://github.com/sakeyehp/)
 
 ---
